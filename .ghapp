@@ -1,0 +1,10 @@
+{
+  "id": 41813732,
+  "created_at": "2023-09-14T16:46:32.000Z",
+  "repository_selection": "selected",
+  "permissions": {
+    "metadata": "read",
+    "statuses": "write"
+  },
+  "repositories": ["aadt", "anatomy_of_degauss_command", "cchmc_batch_geocoder", "census_block_group", "census_merger", "crew_census", "DeGAUSS", "degauss-menu", "degauss-org.github.io", "degauss_hex_logo", "degauss_multisite_study_images", "degauss_poster", "degauss_schwartz_guide", "degauss_template", "dep_index", "dht", "drivetime", "fortunes", "geocoder", "geocoder_slim", "greenspace", "h3", "habre_pm", "high_resolution_place_based_exposures_at_scale_poster", "jfs_aggregated_data_report", "jfs_batch_geocoder", "jfs_data", "jfs_report_from_geocoded_file", "menu", "narr", "nlcd", "PEPR_crime", "PEPR_example_workflow", "PEPR_roadways", "pm", "postal", "postal_expand", "postal_parser", "r-universe.dev", "roads", "schwartz", "schwartz_grid_lookup", "st_census_tract", "survey"]
+}

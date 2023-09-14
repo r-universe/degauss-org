@@ -1,4 +1,7 @@
 [submodule ".registry"]
 	path = .registry
-	url = https://github.com/r-universe-org/cran-to-git
+	url = https://github.com/degauss-org/degauss-org.r-universe.dev
 	branch = HEAD
+[submodule "dht"]
+	path = dht
+	url = https://github.com/degauss-org/dht
